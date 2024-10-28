@@ -1,1 +1,1 @@
-# kickstar
+# MG-kickstar
